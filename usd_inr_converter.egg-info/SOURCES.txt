@@ -1,0 +1,9 @@
+README.md
+setup.py
+usd_inr_converter/__init__.py
+usd_inr_converter/converter.py
+usd_inr_converter.egg-info/PKG-INFO
+usd_inr_converter.egg-info/SOURCES.txt
+usd_inr_converter.egg-info/dependency_links.txt
+usd_inr_converter.egg-info/requires.txt
+usd_inr_converter.egg-info/top_level.txt
